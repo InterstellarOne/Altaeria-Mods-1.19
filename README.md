@@ -10,61 +10,118 @@ Legend:
 **Mods**
 
 ✅ Alternate Current - https://www.curseforge.com/minecraft/mc-mods/alternate-current
+
 ❓ Anvil Fix - https://www.curseforge.com/minecraft/mc-mods/anvil-fix
+
 ✅ Armour Stand Editor - https://www.curseforge.com/minecraft/mc-mods/armor-stand-editor
+
 ✅ BisectHosting Statistics - (Proprietary)
+
 ✅ Carpet - https://www.curseforge.com/minecraft/mc-mods/carpet
+
 ✅ Carpet Extra - https://www.curseforge.com/minecraft/mc-mods/carpet-extra
+
 ✅ Chunky Pregenerator - https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator
+
 ✅ (**API**) Cloth Config API - https://www.curseforge.com/minecraft/mc-mods/cloth-config
+
 ✅ Compostable Rotten Flesh - www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh
+
 ✅ DeathLog - https://www.curseforge.com/minecraft/mc-mods/deathlog
+
 ✅ Debugify - https://www.curseforge.com/minecraft/mc-mods/debugify
+
 ✅ Dimension Data Fix - **Fix included in Fabric API 0.53.3**
+
 ☑ Dynmap - https://dynmap.us/builds/dynmap/Dynmap-3.4-SNAPSHOT-fabric-1.19.jar
+
 ❓ Easier Powdered Snow - www.curseforge.com/minecraft/mc-mods/easier-powdered-snow
+
 ✅ Egg Of Capitalism - https://www.curseforge.com/minecraft/mc-mods/egg-of-capitalism
+
 ☑ Essential Commands - https://www.curseforge.com/minecraft/mc-mods/essential-commands
+
 ✅ (**API**) Fabric API - https://www.curseforge.com/minecraft/mc-mods/fabric-api
+
 ✅ (**API**) Fabric Language Kotlin - https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+
 ✅ FabricHomes - https://www.curseforge.com/minecraft/mc-mods/fabrichomes
+
 ❌ FastFurnace - **Somewhat unnesseccary**
+
 ❌ Feature NBT Deadlock Be Gone - **Unnesseccary**
+
 ✅ FerriteCore - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+
 ✅ Floodgate - https://ci.opencollab.dev/job/GeyserMC/job/Floodgate-Fabric/job/master/
+
 ✅ (**API**) Forge Config API Port - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
+
 ✅ Geyser - https://ci.opencollab.dev/job/GeyserMC/job/Geyser-Fabric/job/java-1.18/
+
 ✅ Universal Graves - https://www.curseforge.com/minecraft/mc-mods/universal-graves
+
 ❓ Server Hats - https://modrinth.com/mod/server-hats
+
 ✅ Horse Buff - https://modrinth.com/mod/horsebuff
+
 ✅ Keep Head Names - https://www.curseforge.com/minecraft/mc-mods/keepheadnames
+
 ✅ Krypton - https://www.curseforge.com/minecraft/mc-mods/krypton
+
 ✅ Ledger - https://www.curseforge.com/minecraft/mc-mods/ledger
+
 ✅ Ledger Databases - https://www.curseforge.com/minecraft/mc-mods/ledger-databases
+
 ✅ Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium
+
 ✅ Login Protection - https://www.curseforge.com/minecraft/mc-mods/login-protection
+
 ✅ LuckPerms - https://www.curseforge.com/minecraft/mc-mods/luckperms
+
 ❓ Mod Viewer - https://www.curseforge.com/minecraft/mc-mods/mod-viewer
+
 ✅ Monsters in the Closet - www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet
+
+
 ❓ Better Nether Map - https://modrinth.com/mod/better-nether-map
+
 ✅ Not Enough Crashes - https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
+
 ✅ PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
+
 ❓ (**API**) Puzzles Lib - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric
+
 ✅ Rain Growth https://www.curseforge.com/minecraft/mc-mods/rain-growth 
+
 ❌ Servux https://www.curseforge.com/minecraft/mc-mods/servux
+
 ✅ spark - https://www.curseforge.com/minecraft/mc-mods/spark
+
 ✅ Starlight - https://www.curseforge.com/minecraft/mc-mods/starlight
+
 ✅ Styled Player List - https://www.curseforge.com/minecraft/mc-mods/styled-player-list
+
 ✅ Suitably Stackable Stew - www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew
+
 ✅ ViaBackwards - https://www.curseforge.com/minecraft/mc-mods/viabackwards
+
 ✅ ViaFabric - https://www.curseforge.com/minecraft/mc-mods/viafabric
+
 ✅ Simple Voice Chat - https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
-✅ Wandering Collector - https://www.curseforge.com/minecraft/mc-mods/wandering-collector 
+
+✅ Wandering Collector - https://www.curseforge.com/minecraft/mc-mods/wandering-collector
+
 ❌ (**API**) YUNG's API - https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
+
 ❌ YUNG's Better Desert Temples - https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric
+
 ❌ YUNG's Better Dungeons - https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+
 ❌ YUNG's Better Mineshafts - https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+
 ❌ YUNG's Better Strongholds - https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
+
 ❌ Yung's Extras - https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
 
 **Datapacks**
