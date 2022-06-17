@@ -88,7 +88,7 @@ Legend:
 
 ✅ Not Enough Crashes - https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
 
-✅ PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
+✅ (**API**) PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
 
 ❓ (**API**) Puzzles Lib - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric
 
