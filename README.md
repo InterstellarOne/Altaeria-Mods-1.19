@@ -57,7 +57,7 @@ Legend:
 
 ✅ (**API**) Forge Config API Port - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
 
-✅ Geyser - https://ci.opencollab.dev/job/GeyserMC/job/Geyser-Fabric/job/java-1.18/
+✅ Geyser - https://ci.opencollabhttps://icedrive.net/s/zPiRDWAtQBbBQhNSiXx9bk3QifGu.dev/job/GeyserMC/job/Geyser-Fabric/job/java-1.18/
 
 ✅ Universal Graves - https://www.curseforge.com/minecraft/mc-mods/universal-graves
 
@@ -124,4 +124,18 @@ Legend:
 
 ❌ Yung's Extras - https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
 
-**Datapacks**
+**Datapacks; not as update-dependent**
+
+❓ Advanced AFK - https://www.planetminecraft.com/data-pack/advanced-afk/
+
+❓ Anvil Mending - (can't find the source) [anvilmending-2021.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8932800/anvilmending-2021.zip)
+
+❓ Armed Armor-Stands - www.planetminecraft.com/data-pack/armed-armor-stands-v211121/
+
+❓ Banner Flags - https://www.planetminecraft.com/data-pack/banner-flags-5591137/
+
+❓ Banners on beds - https://www.planetminecraft.com/data-pack/banners-on-beds/
+
+**Vanilla Tweaks**
+Anti Enderman Grief
+Armour Statues
