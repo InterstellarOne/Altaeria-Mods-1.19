@@ -132,7 +132,7 @@ Legend:
 
 ❓ Anvil Mending - (can't find the source) [anvilmending-2021.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8932800/anvilmending-2021.zip)
 
-❓ Armed Armor-Stands - www.planetminecraft.com/data-pack/armed-armor-stands-v211121/
+❓ Armed Armor-Stands - https://www.planetminecraft.com/data-pack/armed-armor-stands-v211121/
 
 ❓ Banner Flags - https://www.planetminecraft.com/data-pack/banner-flags-5591137/
 
@@ -142,9 +142,9 @@ Legend:
 
 ✅ Dungeon Now Loading - https://www.planetminecraft.com/data-pack/dungeon-now-loading-5-new-dungeons-5-new-bosses/
 
-✅ Minecraft Explosion Rebuilder - planetminecraft.com/data-pack/repairing-creeper-holes/
+✅ Minecraft Explosion Rebuilder - https://planetminecraft.com/data-pack/repairing-creeper-holes/
   
-❓ Framey - planetminecraft.com/data-pack/framey-hide-or-lock-rotation-on-item-frames/
+❓ Framey - https://planetminecraft.com/data-pack/framey-hide-or-lock-rotation-on-item-frames/
 
 ❓ Global Trades - https://www.planetminecraft.com/data-pack/global-trades/ (Update value in pack.mcmeta from 7)
 
@@ -158,7 +158,7 @@ Legend:
 
 ❓ PK Hopper Filter - https://www.planetminecraft.com/data-pack/hopper-filter-sort-your-items-in-chests-more-easily/
 
-❓ PK Tool Rack - planetminecraft.com/data-pack/tool-rack-hang-your-tools-and-weapons/
+❓ PK Tool Rack - https://planetminecraft.com/data-pack/tool-rack-hang-your-tools-and-weapons/
 
 ❓ PK Waystones - https://www.planetminecraft.com/data-pack/waystones-a-fast-way-to-travel-in-your-world-with-waypoints/
 
@@ -168,7 +168,7 @@ Legend:
 
 ✅ Terralith - https://seedfix.stardustlabs.net/seeds/3480508649305364
 
-✅ Towns & Towers - planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul/
+✅ Towns & Towers - https://planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul/
 
 
 
