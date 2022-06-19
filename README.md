@@ -135,7 +135,77 @@ Legend:
 ❓ Banner Flags - https://www.planetminecraft.com/data-pack/banner-flags-5591137/
 
 ❓ Banners on beds - https://www.planetminecraft.com/data-pack/banners-on-beds/
+ 
+❓ Chestboats - https://www.planetminecraft.com/data-pack/chestboats/
+
+✅ Dungeon Now Loading - https://www.planetminecraft.com/data-pack/dungeon-now-loading-5-new-dungeons-5-new-bosses/
+
+✅ Minecraft Explosion Rebuilder - planetminecraft.com/data-pack/repairing-creeper-holes/
+  
+❓ Framey - planetminecraft.com/data-pack/framey-hide-or-lock-rotation-on-item-frames/
+
+❓ Global Trades - https://www.planetminecraft.com/data-pack/global-trades/ (Update value in pack.mcmeta from 7)
+
+❓ Better End City - https://www.planetminecraft.com/data-pack/better-end-city-by-ichphilipp/
+
+❌ Incendium - https://www.planetminecraft.com/data-pack/incendium-nether-expansion/ (Nearly ready)
+
+❓ PK Attract Villagers - https://www.planetminecraft.com/data-pack/attract-villagers-make-them-follow-your-player/
+
+❓ PK Custom Player Heads - https://www.planetminecraft.com/data-pack/custom-player-heads-obtain-those-tiny-blocks-with-a-survival-friendly-way/
+
+❓ PK Hopper Filter - https://www.planetminecraft.com/data-pack/hopper-filter-sort-your-items-in-chests-more-easily/
+
+❓ PK Tool Rack - planetminecraft.com/data-pack/tool-rack-hang-your-tools-and-weapons/
+
+❓ PK Waystones - https://www.planetminecraft.com/data-pack/waystones-a-fast-way-to-travel-in-your-world-with-waypoints/
+
+✅ PlushPets - https://www.planetminecraft.com/data-pack/plushpets/
+
+❓ Stoo's Subtle Survival Improvements (Custom version) [Stoos_Survival_Datapack_v1.10f2custom.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8934743/Stoos_Survival_Datapack_v1.10f2custom.zip)
+
+✅ Terralith - https://seedfix.stardustlabs.net/seeds/3480508649305364
+
+✅ Towns & Towers - planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul/
+
+
 
 **Vanilla Tweaks**
+
 Anti Enderman Grief
+
 Armour Statues
+
+Cauldron Concrete
+
+Coordinates HUD
+
+Durability Ping
+
+Fast Leaf Decay
+
+Gem Villagers (Don't use)
+
+More Mob Heads
+
+Multiplayer Sleep
+
+Nether Portal Coords
+
+Player Head Drops
+
+Silence Mobs
+
+Spawning Spheres
+
+Spectator Night Vision
+
+Track Raw Statistics
+
+Track Statistics
+
+Crafting Tweaks [world_datapacks_VanillaTweaks_c509408.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8934746/world_datapacks_VanillaTweaks_c509408.zip)
+
+Villager Workstation Highlights
+
+Xp Management
