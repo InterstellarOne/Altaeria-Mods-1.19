@@ -90,7 +90,7 @@ Legend:
 
 ✅ (**API**) PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
 
-❓ (**API**) Puzzles Lib - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric
+❌ (**API**) Puzzles Lib - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric
 
 ✅ Rain Growth https://www.curseforge.com/minecraft/mc-mods/rain-growth 
 
@@ -123,6 +123,8 @@ Legend:
 ❌ YUNG's Better Strongholds - https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
 
 ❌ Yung's Extras - https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
+
+
 
 **Datapacks; not as update-dependent**
 
