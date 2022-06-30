@@ -90,8 +90,6 @@ Legend:
 
 ✅ (**API**) PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
 
-❌ (**API**) Puzzles Lib - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib-fabric
-
 ✅ Rain Growth https://www.curseforge.com/minecraft/mc-mods/rain-growth 
 
 ❌ Servux https://www.curseforge.com/minecraft/mc-mods/servux
@@ -166,7 +164,7 @@ Legend:
 
 ❓ Stoo's Subtle Survival Improvements (Custom version) [Stoos_Survival_Datapack_v1.10f2custom.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8934743/Stoos_Survival_Datapack_v1.10f2custom.zip)
 
-✅ Terralith - https://seedfix.stardustlabs.net/seeds/3480508649305364
+✅ Terralith - https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/
 
 ✅ Towns & Towers - https://planetminecraft.com/data-pack/towns-amp-towers-structure-overhaul/
 
