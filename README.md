@@ -152,13 +152,13 @@ Legend:
 
 ❌ Incendium - https://www.planetminecraft.com/data-pack/incendium-nether-expansion/ (Nearly ready)
 
-❓ PK Attract Villagers - https://www.planetminecraft.com/data-pack/attract-villagers-make-them-follow-your-player/
+✅ PK Attract Villagers - https://www.planetminecraft.com/data-pack/attract-villagers-make-them-follow-your-player/
 
-❓ PK Custom Player Heads - https://www.planetminecraft.com/data-pack/custom-player-heads-obtain-those-tiny-blocks-with-a-survival-friendly-way/
+✅ PK Custom Player Heads - https://www.planetminecraft.com/data-pack/custom-player-heads-obtain-those-tiny-blocks-with-a-survival-friendly-way/
 
-❓ PK Hopper Filter - https://www.planetminecraft.com/data-pack/hopper-filter-sort-your-items-in-chests-more-easily/
+✅ PK Hopper Filter - https://www.planetminecraft.com/data-pack/hopper-filter-sort-your-items-in-chests-more-easily/
 
-❓ PK Tool Rack - https://planetminecraft.com/data-pack/tool-rack-hang-your-tools-and-weapons/
+✅ PK Tool Rack - https://planetminecraft.com/data-pack/tool-rack-hang-your-tools-and-weapons/
 
 ❓ PK Waystones - https://www.planetminecraft.com/data-pack/waystones-a-fast-way-to-travel-in-your-world-with-waypoints/
 
