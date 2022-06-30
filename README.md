@@ -61,7 +61,7 @@ Legend:
 
 ✅ Universal Graves - https://www.curseforge.com/minecraft/mc-mods/universal-graves
 
-❓ Server Hats - https://modrinth.com/mod/server-hats
+☑ Server Hats - https://modrinth.com/mod/server-hats
 
 ✅ Horse Buff - https://modrinth.com/mod/horsebuff
 
