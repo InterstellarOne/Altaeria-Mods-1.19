@@ -11,7 +11,7 @@ Legend:
 
 ✅ Alternate Current - https://www.curseforge.com/minecraft/mc-mods/alternate-current
 
-❓ Anvil Fix - https://www.curseforge.com/minecraft/mc-mods/anvil-fix
+❌ Anvil Fix - https://www.curseforge.com/minecraft/mc-mods/anvil-fix
 
 ✅ Armour Stand Editor - https://www.curseforge.com/minecraft/mc-mods/armor-stand-editor
 
@@ -85,8 +85,7 @@ Legend:
 
 ✅ Monsters in the Closet - www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet
 
-
-❓ Better Nether Map - https://modrinth.com/mod/better-nether-map
+❌ Better Nether Map - https://modrinth.com/mod/better-nether-map
 
 ✅ Not Enough Crashes - https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
 
@@ -152,7 +151,7 @@ Legend:
 
 ❓ Better End City - https://www.planetminecraft.com/data-pack/better-end-city-by-ichphilipp/
 
-❌ Incendium - https://www.planetminecraft.com/data-pack/incendium-nether-expansion/ (Nearly ready)
+✅ Incendium - https://www.planetminecraft.com/data-pack/incendium-nether-expansion/ 
 
 ✅ PK Attract Villagers - https://www.planetminecraft.com/data-pack/attract-villagers-make-them-follow-your-player/
 
