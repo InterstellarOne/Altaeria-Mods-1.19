@@ -47,7 +47,7 @@ Legend:
 
 ✅ FabricHomes - https://www.curseforge.com/minecraft/mc-mods/fabrichomes
 
-❌ FastFurnace - **Somewhat unnesseccary**
+❌ FastFurnace - **Replaced by Recipie Cache**
 
 ❌ Feature NBT Deadlock Be Gone - **Unnesseccary**
 
@@ -62,6 +62,8 @@ Legend:
 ✅ Universal Graves - https://www.curseforge.com/minecraft/mc-mods/universal-graves
 
 ☑ Server Hats - https://modrinth.com/mod/server-hats
+
+✅ Structuory - https://www.curseforge.com/minecraft/mc-mods/structory
 
 ✅ Horse Buff - https://modrinth.com/mod/horsebuff
 
@@ -90,9 +92,11 @@ Legend:
 
 ✅ (**API**) PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
 
-✅ Rain Growth https://www.curseforge.com/minecraft/mc-mods/rain-growth 
+✅ Rain Growth - https://www.curseforge.com/minecraft/mc-mods/rain-growth 
 
-❌ Servux https://www.curseforge.com/minecraft/mc-mods/servux
+✅ Recipie Cache - https://www.curseforge.com/minecraft/mc-mods/recipe-cache
+
+❌ Servux - https://www.curseforge.com/minecraft/mc-mods/servux
 
 ✅ spark - https://www.curseforge.com/minecraft/mc-mods/spark
 
