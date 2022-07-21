@@ -59,7 +59,7 @@ Legend:
 
 ✅ (**API**) Forge Config API Port - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
 
-✅ Geyser - https://ci.opencollabhttps://icedrive.net/s/zPiRDWAtQBbBQhNSiXx9bk3QifGu.dev/job/GeyserMC/job/Geyser-Fabric/job/java-1.18/
+✅ Geyser - https://ci.opencollab.dev/job/GeyserMC/job/Geyser-Fabric/job/master/
 
 ✅ Universal Graves - https://www.curseforge.com/minecraft/mc-mods/universal-graves
 
