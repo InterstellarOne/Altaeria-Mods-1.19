@@ -33,6 +33,8 @@ Legend:
 
 ✅ Dimension Data Fix - **Fix included in Fabric API 0.53.3**
 
+✅ Disfabric - https://www.curseforge.com/minecraft/mc-mods/disfabric
+
 ☑ Dynmap - https://dynmap.us/builds/dynmap/Dynmap-3.4-SNAPSHOT-fabric-1.19.jar
 
 ❓ Easier Powdered Snow - www.curseforge.com/minecraft/mc-mods/easier-powdered-snow
@@ -81,7 +83,7 @@ Legend:
 
 ✅ LuckPerms - https://www.curseforge.com/minecraft/mc-mods/luckperms
 
-❓ Mod Viewer - https://www.curseforge.com/minecraft/mc-mods/mod-viewer
+❌ Mod Viewer - https://www.curseforge.com/minecraft/mc-mods/mod-viewer
 
 ✅ Monsters in the Closet - www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet
 
@@ -95,7 +97,7 @@ Legend:
 
 ✅ Recipie Cache - https://www.curseforge.com/minecraft/mc-mods/recipe-cache
 
-❌ Servux - https://www.curseforge.com/minecraft/mc-mods/servux
+✅ Servux - https://www.curseforge.com/minecraft/mc-mods/servux
 
 ✅ spark - https://www.curseforge.com/minecraft/mc-mods/spark
 
@@ -113,15 +115,15 @@ Legend:
 
 ✅ Wandering Collector - https://www.curseforge.com/minecraft/mc-mods/wandering-collector
 
-❌ (**API**) YUNG's API - https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
+✅ (**API**) YUNG's API - https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
 
 ❌ YUNG's Better Desert Temples - https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric
 
-❌ YUNG's Better Dungeons - https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+✅ YUNG's Better Dungeons - https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
 
-❌ YUNG's Better Mineshafts - https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+✅ YUNG's Better Mineshafts - https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
 
-❌ YUNG's Better Strongholds - https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
+✅ YUNG's Better Strongholds - https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
 
 ❌ Yung's Extras - https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
 
@@ -165,7 +167,7 @@ Legend:
 
 ✅ PlushPets - https://www.planetminecraft.com/data-pack/plushpets/
 
-❓ Stoo's Subtle Survival Improvements (Custom version) [Stoos_Survival_Datapack_v1.10f2custom.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8934743/Stoos_Survival_Datapack_v1.10f2custom.zip)
+❌ Stoo's Subtle Survival Improvements (Custom version) [Stoos_Survival_Datapack_v1.10f2custom.zip](https://github.com/InterstellarOne/Altaeria-Mods-1.19/files/8934743/Stoos_Survival_Datapack_v1.10f2custom.zip)
 
 ✅ Terralith - https://www.planetminecraft.com/data-pack/terralith-overworld-evolved-100-biomes-caves-and-more/
 
