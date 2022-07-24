@@ -27,6 +27,8 @@ Legend:
 
 ✅ Compostable Rotten Flesh - www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh
 
+✅ Crowmap - https://modrinth.com/mod/crowmap
+
 ✅ DeathLog - https://www.curseforge.com/minecraft/mc-mods/deathlog
 
 ✅ Debugify - https://www.curseforge.com/minecraft/mc-mods/debugify
