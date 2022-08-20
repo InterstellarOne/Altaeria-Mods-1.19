@@ -1,11 +1,10 @@
 # Altaeria-Mods-1.19
-Currently updated mods and datapacks for the server Altaeria
+Mods and Datapacks for the server Altaeria and whether or not they are necessary.
 
 Legend:
-✅ Updated or works without update
-☑ Available in snapshot release
-❓ Not updated and not tested
-❌ Not updated and won't work
+✅ Keeping
+❓ Maybe keep
+❌ Not keeping
 
 **Mods**
 
@@ -25,23 +24,21 @@ Legend:
 
 ✅ (**API**) Cloth Config API - https://www.curseforge.com/minecraft/mc-mods/cloth-config
 
-✅ Compostable Rotten Flesh - www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh
+❓ Compostable Rotten Flesh - www.curseforge.com/minecraft/mc-mods/compostable-rotten-flesh
 
-✅ Crowmap - https://modrinth.com/mod/crowmap
+❓ Crowmap - https://modrinth.com/mod/crowmap
 
-✅ DeathLog - https://www.curseforge.com/minecraft/mc-mods/deathlog
+❌ DeathLog - https://www.curseforge.com/minecraft/mc-mods/deathlog
 
 ✅ Debugify - https://www.curseforge.com/minecraft/mc-mods/debugify
-
-✅ Dimension Data Fix - **Fix included in Fabric API 0.53.3**
 
 ✅ Disfabric - https://www.curseforge.com/minecraft/mc-mods/disfabric
 
 ☑ Dynmap - https://dynmap.us/builds/dynmap/Dynmap-3.4-SNAPSHOT-fabric-1.19.jar
 
-❓ Easier Powdered Snow - www.curseforge.com/minecraft/mc-mods/easier-powdered-snow
+❌ Easier Powdered Snow - www.curseforge.com/minecraft/mc-mods/easier-powdered-snow
 
-✅ Egg Of Capitalism - https://www.curseforge.com/minecraft/mc-mods/egg-of-capitalism
+❌ Egg Of Capitalism - https://www.curseforge.com/minecraft/mc-mods/egg-of-capitalism
 
 ☑ Essential Commands - https://www.curseforge.com/minecraft/mc-mods/essential-commands
 
@@ -59,35 +56,35 @@ Legend:
 
 ✅ Floodgate - https://ci.opencollab.dev/job/GeyserMC/job/Floodgate-Fabric/job/master/
 
-✅ (**API**) Forge Config API Port - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
+❌ (**API**) Forge Config API Port - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric
 
 ✅ Geyser - https://ci.opencollab.dev/job/GeyserMC/job/Geyser-Fabric/job/master/
 
 ✅ Universal Graves - https://www.curseforge.com/minecraft/mc-mods/universal-graves
 
-☑ Server Hats - https://modrinth.com/mod/server-hats
+❌ Server Hats - https://modrinth.com/mod/server-hats
 
 ✅ Structuory - https://www.curseforge.com/minecraft/mc-mods/structory
 
-✅ Horse Buff - https://modrinth.com/mod/horsebuff
+❌ Horse Buff - https://modrinth.com/mod/horsebuff
 
-✅ Keep Head Names - https://www.curseforge.com/minecraft/mc-mods/keepheadnames
+❓ Keep Head Names - https://www.curseforge.com/minecraft/mc-mods/keepheadnames
 
 ✅ Krypton - https://www.curseforge.com/minecraft/mc-mods/krypton
 
 ✅ Ledger - https://www.curseforge.com/minecraft/mc-mods/ledger
 
-✅ Ledger Databases - https://www.curseforge.com/minecraft/mc-mods/ledger-databases
+❌ Ledger Databases - https://www.curseforge.com/minecraft/mc-mods/ledger-databases
 
 ✅ Lithium - https://www.curseforge.com/minecraft/mc-mods/lithium
 
-✅ Login Protection - https://www.curseforge.com/minecraft/mc-mods/login-protection
+❌ Login Protection - https://www.curseforge.com/minecraft/mc-mods/login-protection
 
 ✅ LuckPerms - https://www.curseforge.com/minecraft/mc-mods/luckperms
 
 ❌ Mod Viewer - https://www.curseforge.com/minecraft/mc-mods/mod-viewer
 
-✅ Monsters in the Closet - www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet
+❌ Monsters in the Closet - www.curseforge.com/minecraft/mc-mods/monsters-in-the-closet
 
 ❌ Better Nether Map - https://modrinth.com/mod/better-nether-map
 
@@ -95,9 +92,9 @@ Legend:
 
 ✅ (**API**) PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal
 
-✅ Rain Growth - https://www.curseforge.com/minecraft/mc-mods/rain-growth 
+❌ Rain Growth - https://www.curseforge.com/minecraft/mc-mods/rain-growth 
 
-✅ Recipie Cache - https://www.curseforge.com/minecraft/mc-mods/recipe-cache
+❌ Recipie Cache - https://www.curseforge.com/minecraft/mc-mods/recipe-cache
 
 ✅ Servux - https://www.curseforge.com/minecraft/mc-mods/servux
 
@@ -107,7 +104,7 @@ Legend:
 
 ✅ Styled Player List - https://www.curseforge.com/minecraft/mc-mods/styled-player-list
 
-✅ Suitably Stackable Stew - www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew
+❌ Suitably Stackable Stew - www.curseforge.com/minecraft/mc-mods/suitably-stackable-stew
 
 ✅ ViaBackwards - https://www.curseforge.com/minecraft/mc-mods/viabackwards
 
@@ -115,7 +112,7 @@ Legend:
 
 ✅ Simple Voice Chat - https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 
-✅ Wandering Collector - https://www.curseforge.com/minecraft/mc-mods/wandering-collector
+❌ Wandering Collector - https://www.curseforge.com/minecraft/mc-mods/wandering-collector
 
 ✅ (**API**) YUNG's API - https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
 
