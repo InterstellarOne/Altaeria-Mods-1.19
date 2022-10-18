@@ -1,5 +1,5 @@
 # Altaeria-Mods-1.19
-Mods and Datapacks for the server Altaeria and whether or not they are necessary.
+Mods and Datapacks for the server Altaeria and whether or not they are updated.
 
 Legend:
 ✅ Keeping
